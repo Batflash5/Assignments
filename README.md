@@ -2,7 +2,7 @@
 
 A Flutter app.
 
-##Description
+## Description
 
 Developed using Flutter SDK and Dart. A script is written using python for scraping data from the website
 and it is hosted in Heroku for the app to access it by REST API calls.
